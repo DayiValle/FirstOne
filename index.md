@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to I don't know what I'm doing Show
 
-You can use the [editor on GitHub](https://github.com/DayiValle/FirstOne/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Let's see how it goes
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
